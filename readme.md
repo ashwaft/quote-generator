@@ -1,0 +1,1 @@
+Vanilla JS to retrieve quotes via a random quote generator api.
